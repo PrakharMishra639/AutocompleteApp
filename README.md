@@ -6,7 +6,7 @@ A fast and responsive product autocomplete component built using **Next.js App R
 
 ## 🚀 Demo
 
-[Live Demo on Netlify]()
+[Live Demo on Vercel](autocomplete-8xhjjfdux-prakhar-mishras-projects-967c52ce.vercel.app)
 
 ---
 
